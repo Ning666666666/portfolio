@@ -1,0 +1,10 @@
+# 开发过程文件（不发布到 GitHub Pages）
+_backup/
+_shots/
+_shots_report*.txt
+.obsidian/
+建站资料/
+direction-approved.md
+log.md
+rule.md
+
